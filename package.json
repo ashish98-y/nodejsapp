@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashish98-y/nodejsapp/issues"
   },
-  "homepage": "https://github.com/ashish98-y/nodejsapp#readme"
+  "homepage": "https://github.com/ashish98-y/nodejsapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
